@@ -1,2 +1,2 @@
-# research-fa19-QR
-Visual aids for 2019 fall undergraduate research festival
+# Robust Automatic Multiple Landmark Detection in 3D MRI
+
